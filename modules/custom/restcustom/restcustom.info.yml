@@ -1,0 +1,6 @@
+name: restcustom
+type: module
+description: restcustom
+core: 8.x
+package: "restcustom"
+dependencies:
